@@ -87,3 +87,7 @@ We evaluate SparseBERT using the GLUE benchmark, focusing on tasks such as:
 ## Acknowledgments
 - This work was supported by computational resources from NYU HPC
 - The ModernBERT-base model is from AnswerDotAI
+
+## Members
+Sakshi Bhavsar(sgb9086@nyu.edu)
+Shruti Pangare(stp8232@nyu.edu)
